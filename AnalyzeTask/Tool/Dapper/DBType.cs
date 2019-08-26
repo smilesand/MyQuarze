@@ -15,13 +15,5 @@ namespace AnalyzeTask.Tool.Dapper
         /// SQLSERVER
         /// </summary>
         public const string SQLSERVER = "SQLSERVER";
-        /// <summary>
-        /// Oracle
-        /// </summary>
-        public const string Oracle = "Oracle";
-        /// <summary>
-        /// OracleResult
-        /// </summary>
-        public const string OracleResult = "OracleResult";
     }
 }
